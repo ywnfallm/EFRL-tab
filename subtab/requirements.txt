@@ -1,0 +1,31 @@
+PyYAML 
+numpy 
+matplotlib
+jupyter
+ipykernel 
+scipy
+pandas
+seaborn 
+tqdm 
+isort 
+xlrd 
+#torch == "*"
+#torchvision == "*"
+#pytorch-lightning == "*"
+mlflow 
+sklearn
+python-mnist
+scikit-image
+scikit-learn
+opencv-python
+datatable
+h5py
+imageio 
+imbalanced-learn 
+imblearn 
+Pillow 
+tabulate 
+tensorboard 
+texttable 
+wget 
+pytest

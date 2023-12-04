@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+torch = "==1.8.1"
+torchvision = "==0.9.1"
+torchmeta = "*"
+tensorboardX = "*"
+faiss-cpu = "*"
+scikit-learn = "*"
+
+[requires]
+python_version = "3.8"
